@@ -1,4 +1,5 @@
 # NodeJS-console-application
+This project is a nodeJs console application which has different features. 
 
 ## Features
 * ` Print main menu that show the different features in the system and validate the input of user. 
